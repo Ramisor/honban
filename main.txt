@@ -1,5 +1,4 @@
 hedder=1
 date=2
-addprog=00001
 traier=3
 riri-su
