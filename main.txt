@@ -2,8 +2,8 @@ hedder=1
 date=2
 addprog=00009
 traier=3
-addprog=10000000
-addprog=00000021
+addprog=xxxxxxxx
+addprog=yyyyyyyy
 addprog=00000022
 addprog=14514810
 riri-su
