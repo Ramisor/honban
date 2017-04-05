@@ -3,4 +3,5 @@ date=2
 addprog=00009
 traier=3
 addprog=14514810
+addarea=itere010
 riri-su
